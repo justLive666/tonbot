@@ -1,0 +1,3 @@
+Pyrogram
+pyTelegramBotAPI
+TgCrypto
